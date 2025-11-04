@@ -1,10 +1,10 @@
 # ⚡ Analogue Electronics Labs
 
 <p align="center">
-  <a href="./Lab1_OpAmps/Report.pdf">
+  <a href="https://github.com/Krys301/AnalogueElectronics/blob/main/EE204-Assignment%20-1.pdf">
     <img src="https://img.shields.io/badge/📄_Lab_1_Report-blue?style=for-the-badge" alt="Lab 1 Report"/>
   </a>
-  <a href="./Lab2_InstrumentationAmplifier/Report.pdf">
+  <a href="https://github.com/Krys301/AnalogueElectronics/blob/main/EE204-Assignment-2.pdf">
     <img src="https://img.shields.io/badge/📄_Lab_2_Report-green?style=for-the-badge" alt="Lab 2 Report"/>
   </a>
   <a href="./Lab3_Integrators_Differentiators/">

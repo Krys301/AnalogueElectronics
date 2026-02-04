@@ -7,11 +7,11 @@
   <a href="https://github.com/Krys301/AnalogueElectronics/blob/main/EE204-Assignment-2.pdf">
     <img src="https://img.shields.io/badge/📄_Lab_2_Report-green?style=for-the-badge" alt="Lab 2 Report"/>
   </a>
-  <a href="./Lab3_Integrators_Differentiators/">
-    <img src="https://img.shields.io/badge/⚙️_Lab_3_Pending-orange?style=for-the-badge" alt="Lab 3 Coming Soon"/>
+  <a href="Assignment 3 - Integrators & Differentiators.pdf">
+    <img src="https://img.shields.io/badge/⚙️_Lab_3 Report-orange?style=for-the-badge" alt="Lab 3 Coming Soon"/>
   </a>
-  <a href="./Lab4_TransistorAmplifiers/">
-    <img src="https://img.shields.io/badge/⚙️_Lab_4_Pending-yellow?style=for-the-badge" alt="Lab 4 Coming Soon"/>
+  <a href="EE204 Transistor Amplifiers.pdf">
+    <img src="https://img.shields.io/badge/⚙️ Lab 4 Report-yellow?style=for-the-badge" alt="Lab 4 Coming Soon"/>
   </a>
 </p>
 
